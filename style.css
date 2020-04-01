@@ -3,6 +3,7 @@
 .uk-container {
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 20px;
 }
 
 /*headshot*/
@@ -33,9 +34,9 @@ h4 {
 }
 
 .fixed {
-  max-height: 100vh;
+  max-height: 90vh;
   overflow-y: scroll;
-  padding-bottom: 50px;
+  padding-bottom: 5px;
   margin-top: 20px;
 }
 
