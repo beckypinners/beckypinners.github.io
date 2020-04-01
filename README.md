@@ -1,2 +1,2 @@
-# beckypinners.github.io
+# beckypinnington.github.io
 Github Pages baby
