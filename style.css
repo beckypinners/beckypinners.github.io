@@ -18,6 +18,12 @@
   text-align: center;
 }
 
+@media only screen and (max-width: 600px) {
+  .headshot {
+    max-height: 150px;
+  }
+}
+
 /*social menu*/
 
 #social a {
