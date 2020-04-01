@@ -40,6 +40,13 @@ h4 {
   margin-top: 20px;
 }
 
+@media only screen and (max-width: 600px) {
+  .fixed {
+    height: 100%;
+    overflow-y: visible;
+  }
+}
+
 /* hidden divs */
 
 .shown {
